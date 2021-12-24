@@ -53,7 +53,7 @@
 	"styles" : ["combatready.css"],
 	"packs": [],
 	"url" : "https://github.com/liquidsn8ke/combatreadysn8ke",
-	"download" : "https://drive.google.com/file/d/1cZ1GkF7r1NhrICDn-slcjIbRw-QF3vXr/view?usp=sharing",
+	"download" : "https://github.com/liquidsn8ke/combatreadysn8ke/archive/master.zip",
 	"manifest" : "https://raw.githubusercontent.com/liquidsn8ke/combatreadysn8ke/master/module.json",
 	"minimumCoreVersion": "0.7.1",
   	"compatibleCoreVersion": "0.7.5"
